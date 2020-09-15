@@ -1,5 +1,5 @@
 {% set name = "django_param" %}
-{% set version = "0.1.6" %}
+{% set version = "0.1.7" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/django-param/{{ name }}-{{ version }}.tar.gz
-  sha256: 8979f21a2a805ed3e87af65428dac15a09ffb5c4b6567d5f9b082751738a48ae
+  sha256: c0f49531ee0a9100946f5426dc44f7dd5c0465bd03662ab5fe5ea78f95e09af4
 
 build:
   number: 0
