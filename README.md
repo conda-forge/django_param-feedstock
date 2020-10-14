@@ -5,11 +5,9 @@ Home: https://pypi.org/project/django-param/
 
 Package license: BSD-2-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django_param-feedstock/blob/master/LICENSE.txt)
 
 Summary: django-axes, ParamForm class which allows python param to be used in django form.
-
-
 
 Current build status
 ====================
